@@ -2,6 +2,19 @@
 
 Instructions on how to run Balsamiq Wireframes on Linux, using Wine and Lutris.
 
+### UPDATE: The Lutris installer seems broken
+At the moment the lutris installer seems broken, please try the following workaround:
+
+1. install flatpak + repositories
+https://flatpak.org/setup/
+
+2. install bottles from flatpak repo
+
+3. download balsamiq wireframes setup.exe, create a new "bottle" with caffe-72 runner (different runners have problems) and install it "for all users"
+
+4. in case of graphic problems disable DXVK and VKD3D into bottle preferences
+
+
 ### PREREQUISITES
 
 * a mainstream Linux distribution (Ubuntu / Debian / Fedora / Mint), with `curl`, `wine` and `wine32`.
