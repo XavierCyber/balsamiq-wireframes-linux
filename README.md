@@ -14,7 +14,7 @@ https://flatpak.org/setup/
 
 4. download balsamiq wireframes setup.exe, create a new "bottle" with caffe-7.20 runner (different runners have problems) and install it "for all users"
 
-4. in case of graphic problems disable DXVK and VKD3D into bottle preferences
+5. in case of graphic problems disable DXVK and VKD3D into bottle preferences
 
 
 ### PREREQUISITES
